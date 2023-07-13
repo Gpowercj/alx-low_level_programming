@@ -1,10 +1,8 @@
 #include <stdio.h>
-
-/** c program that uses the printf function for its result.
-* main -main block
-* return: 0
-*/
-
+/**
+ * main - main block
+ * Return: 0
+ */
 int main(void)
 {
 
