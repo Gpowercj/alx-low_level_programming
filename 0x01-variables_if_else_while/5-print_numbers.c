@@ -9,11 +9,12 @@
 int main(void)
 {
 	int b;
+
 	b = 0;
 
-while(b <= 10)
+while (b <= 10)
 {
-printf("%d\t",b);
+printf("%d\t", b);
 ++b;
 }
 putchar('\n');
